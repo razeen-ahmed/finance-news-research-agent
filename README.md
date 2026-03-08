@@ -1,1 +1,1 @@
-# finance-news-research-agent
+# Finance News Research Agent
